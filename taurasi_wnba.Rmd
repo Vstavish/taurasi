@@ -1,0 +1,254 @@
+---
+title: "taurasi"
+author: "Victoria Stavish"
+date: "2024-11-25"
+output: html_document
+---
+
+```{r}
+library(labelr) 
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(ggplot2)
+library(readxl)
+library(writexl)
+library(dplyr)
+#install.packages("stringr")
+library(stringr)
+
+# install wehoop
+
+if (!requireNamespace('pacman', quietly = TRUE)){
+  install.packages('pacman')
+}
+
+pacman::p_load(wehoop, dplyr, glue, tictoc, progressr)
+
+```
+
+# load since 2004, when Taurasi started
+
+```{r}
+
+all_seasons <- load_wnba_pbp(
+  seasons = 2004 | 2024,
+  dbConnection = NULL,
+  tablename = NULL
+)
+
+```
+
+# filter for Mercury and Taurasi
+
+```{r}
+
+taurasi <- all_seasons %>%
+  clean_names() %>%
+  filter_all(any_vars(str_detect(., "Mercury|Diana Taurasi")))
+  
+```
+
+# confirm I only have games where Mercury played
+
+```{r}
+# noting that Team usa, team parker/delle donne and the east and west conference -- Do we really want EVERY shot? probably. But just noting
+checkteams <- taurasi %>%
+  group_by(away_team_mascot, home_team_mascot) %>%
+  count()
+
+```
+
+# now just grab taurasi's shots
+
+```{r}
+
+taurasi_shots <- taurasi %>%
+  filter(shooting_play == "TRUE") %>%
+  filter(athlete_id_1 == 585)
+  # filter(!(coordinate_x_raw == "25" & coordinate_y_raw == "13.75")) %>%
+
+# Clean up the columns
+clean_taurasi_shots <- taurasi_shots %>%
+  select(id, type_text, text, scoring_play, score_value, season, coordinate_x, coordinate_y, game_date) %>%
+  rename(longitude = coordinate_x, latitude = coordinate_y) %>%
+  mutate(longitude = if_else(longitude > 0, -longitude, longitude)) # Ensure longitude is negative
+
+write_csv(clean_taurasi_shots, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/clean_taurasi_shots.csv")
+
+
+x47_point_game <- taurasi_shots %>%
+  filter(game_date == "2006-08-10") %>%
+    select(id, type_text, text, scoring_play, score_value, season, coordinate_x, coordinate_y, game_date) %>%
+  rename(longitude = coordinate_x, latitude = coordinate_y) %>%
+  mutate(longitude = if_else(longitude > 0, -longitude, longitude)) # Ensure longitude is negative
+
+write_csv(x47_point_game, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/x47_point_game.csv")
+  
+x3_pointers_game <- x47_point_game %>%
+  filter(score_value == 3)
+
+write_csv(x3_pointers_game, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/x3_pointers_game.csv")
+
+threes_2006 <- taurasi_shots %>%
+  filter(season == "2006") %>%
+  select(id, type_text, text, scoring_play, score_value, season, coordinate_x, coordinate_y, game_date) %>%
+  rename(longitude = coordinate_x, latitude = coordinate_y) %>%
+  mutate(longitude = if_else(longitude > 0, -longitude, longitude)) %>% # Ensure longitude is negative
+  mutate(
+    three_status = if_else(score_value == 3, "three", "not a three")
+  )
+  
+  write_csv(threes_2006, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/threes_2006.csv")
+
+```
+
+# legendary shot
+
+```{r}
+
+legendary <- taurasi %>%
+  filter(id == 401507285323) %>%
+    select(id, type_text, text, scoring_play, score_value, season, coordinate_x, coordinate_y, game_date) %>%
+  rename(longitude = coordinate_x, latitude = coordinate_y) %>%
+  mutate(longitude = if_else(longitude > 0, -longitude, longitude))
+  
+  write_csv(legendary, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/legendary.csv")
+	
+
+
+```
+
+# last shot
+
+```{r}
+
+last_shot <- taurasi %>%
+  filter(game_date == "2024-09-25") %>%
+  filter(scoring_play == "TRUE") %>%
+  filter(period_number == 4) %>%
+  filter(id == 401721260434) %>%
+    select(id, type_text, text, scoring_play, score_value, season, coordinate_x, coordinate_y, game_date) %>%
+  rename(longitude = coordinate_x, latitude = coordinate_y) %>%
+  mutate(longitude = if_else(longitude > 0, -longitude, longitude))
+  
+  write_csv(last_shot, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/last_shot.csv")
+
+```
+
+# unique points
+
+```{r}
+
+clean_points <- clean_taurasi_shots %>%
+  distinct(longitude, latitude)
+
+
+write_csv(clean_points, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/clean_points.csv")
+```
+
+# 2004 shooting season
+
+```{r}
+
+x2004 <- clean_taurasi_shots %>%
+  filter(season == 2004) %>%
+  group_by(latitude, longitude) %>%
+  count()
+  
+
+write_csv(x2004, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/x2004.csv")
+
+
+#first shot ever
+
+first_shot <- clean_taurasi_shots %>%
+  filter(season == 2004) %>%
+  filter(scoring_play == "TRUE") %>%
+  arrange(game_date) %>%
+  slice(1)
+
+write_csv(first_shot, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/first_shot.csv")
+  
+
+
+```
+
+# 2006 shooting season
+
+```{r}
+
+x2006 <- clean_taurasi_shots %>%
+  filter(season == 2006) %>%
+  group_by(latitude, longitude) %>%
+  count()
+  
+
+write_csv(x2006, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/x2006.csv")
+
+
+```
+
+
+# 2008 shooting season
+
+```{r}
+
+x2008 <- clean_taurasi_shots %>%
+  filter(season == 2008) %>%
+  group_by(latitude, longitude) %>%
+  count()
+  
+
+write_csv(x2008, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/x2008.csv")
+
+
+```
+# 2009 shooting season
+
+```{r}
+
+x2009 <- clean_taurasi_shots %>%
+  filter(season == 2009) %>%
+  group_by(latitude, longitude) %>%
+  count()
+  
+
+write_csv(x2009, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/x2009.csv")
+
+
+```
+
+# 2010 shooting season
+
+```{r}
+
+x2010 <- clean_taurasi_shots %>%
+  filter(season == 2010) %>%
+  group_by(latitude, longitude) %>%
+  count()
+  
+
+write_csv(x2010, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/x2010.csv")
+
+
+```
+
+# 2011 shooting season
+
+```{r}
+
+x2011 <- clean_taurasi_shots %>%
+  filter(season == 2011) %>%
+  group_by(latitude, longitude) %>%
+  count()
+  
+
+write_csv(x2011, "/Users/victoria.stavish/Desktop/hearstct2024/taurasi/x2011.csv")
+
+
+```
+
+
+
+
