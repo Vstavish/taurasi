@@ -1,0 +1,850 @@
+id,type_text,text,scoring_play,score_value,season,longitude,latitude,game_date,three_status
+26081301100005,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-22.75,-12,2006-08-13,three
+26081301100008,Three Point Jump Shot,Diana Taurasi missed Three Point Jumper.,FALSE,0,2006,-18.75,-0,2006-08-13,not a three
+26081301100013,JumpShot,Diana Taurasi made 12 ft Jumper.,TRUE,2,2006,-30.75,-4,2006-08-13,not a three
+26081301100029,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-33.75,15,2006-08-13,not a three
+26081301100042,LayupShot,Diana Taurasi made Layup. Assisted by Penny Taylor.,TRUE,2,2006,-41.75,-0,2006-08-13,not a three
+26081301100044,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,-0,2006-08-13,not a three
+26081301100079,Three Point Jump Shot,Diana Taurasi made 25 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-25.75,19,2006-08-13,three
+26081301100083,Three Point Jump Shot,Diana Taurasi missed 25 ft Three Point Jumper.,FALSE,0,2006,-25.75,19,2006-08-13,not a three
+26081301100086,Three Point Jump Shot,Diana Taurasi missed 32 ft Three Point Jumper.,FALSE,0,2006,-17.75,21,2006-08-13,not a three
+26081301100093,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-23.75,-14,2006-08-13,three
+26081301100127,LayupShot,Diana Taurasi made Layup. Assisted by Jen Derevjanik.,TRUE,2,2006,-41.75,-0,2006-08-13,not a three
+26081301100159,RegularJumpShot,Diana Taurasi missed Two Point Shot.,FALSE,0,2006,-41.75,-0,2006-08-13,not a three
+26081301100175,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-08-13,not a three
+26081301100180,JumpShot,Diana Taurasi made 19 ft Jumper. Assisted by Kristen Rasmussen.,TRUE,2,2006,-22.75,-3,2006-08-13,not a three
+26081301100197,RegularJumpShot,Diana Taurasi's 19 ft Two Point Shot blocked by Ticha Penicheiro.,FALSE,0,2006,-23.75,-5,2006-08-13,not a three
+26081301100207,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,-7,2006-08-13,not a three
+26081301100230,JumpShot,Diana Taurasi's 9 ft Jumper blocked by Hamchetou Maiga-Ba.,FALSE,0,2006,-36.75,-7,2006-08-13,not a three
+26081301100233,JumpShot,Diana Taurasi's 6 ft Jumper blocked by Yolanda Griffith.,FALSE,0,2006,-39.75,-6,2006-08-13,not a three
+26081301100245,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kristen Rasmussen.,TRUE,3,2006,-29.75,19,2006-08-13,three
+26081301100250,JumpShot,Diana Taurasi missed 11 ft Jumper.,FALSE,0,2006,-36.75,10,2006-08-13,not a three
+26081301100251,LayupShot,Diana Taurasi made Layup.,TRUE,2,2006,-41.75,-0,2006-08-13,not a three
+26081301100277,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-36.75,-21,2006-08-13,three
+26081301100287,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-28.75,18,2006-08-13,not a three
+26081301100344,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-21.75,-14,2006-08-13,not a three
+26081301100352,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-31.75,20,2006-08-13,not a three
+26081301100368,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-25.75,15,2006-08-13,three
+26081301100371,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,4,2006-08-13,not a three
+26081301100406,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-24.75,-16,2006-08-13,not a three
+26081201700025,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper.,TRUE,3,2006,-20.75,4,2006-08-12,three
+26081201700032,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-42.75,1,2006-08-12,not a three
+26081201700045,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-24.75,-15,2006-08-12,three
+26081201700055,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-08-12,not a three
+26081201700056,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-08-12,not a three
+26081201700061,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-22.75,11,2006-08-12,not a three
+26081201700085,JumpShot,Diana Taurasi made Jumper.,TRUE,2,2006,-41.75,-4,2006-08-12,not a three
+26081201700099,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-23.75,15,2006-08-12,not a three
+26081201700133,RegularJumpShot,Diana Taurasi made 13 ft Two Point Shot.,TRUE,2,2006,-39.75,-13,2006-08-12,not a three
+26081201700165,JumpShot,Diana Taurasi's 4 ft Jumper blocked by Katie Feenstra.,FALSE,0,2006,-40.75,4,2006-08-12,not a three
+26081201700180,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-25.75,-14,2006-08-12,not a three
+26081201700189,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-40.75,-3,2006-08-12,not a three
+26081201700210,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-20.75,-1,2006-08-12,not a three
+26081201700220,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-34.75,0,2006-08-12,not a three
+26081201700236,LayupShot,Diana Taurasi made Layup. Assisted by Penny Taylor.,TRUE,2,2006,-40.75,1,2006-08-12,not a three
+26081201700240,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-41.75,15,2006-08-12,not a three
+26081201700252,JumpShot,Diana Taurasi missed 5 ft Jumper.,FALSE,0,2006,-37.75,3,2006-08-12,not a three
+26081201700260,LayupShot,Diana Taurasi made Layup. Assisted by Cappie Pondexter.,TRUE,2,2006,-41.75,1,2006-08-12,not a three
+26081201700262,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-08-12,not a three
+26081201700275,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-38.75,23,2006-08-12,not a three
+26081201700282,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,2,2006-08-12,not a three
+26081201700301,JumpShot,Diana Taurasi missed 19 ft Jumper.,FALSE,0,2006,-22.75,-2,2006-08-12,not a three
+26081201700305,LayupShot,Diana Taurasi made Layup. Assisted by Cappie Pondexter.,TRUE,2,2006,-40.75,1,2006-08-12,not a three
+26081201700308,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-23.75,-12,2006-08-12,three
+26081201700310,Three Point Jump Shot,Diana Taurasi missed 58 ft Three Point Jumper.,FALSE,0,2006,-13.25,18,2006-08-12,not a three
+26081201700346,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-28.75,-10,2006-08-12,not a three
+26081201700364,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-25.75,-14,2006-08-12,not a three
+26081201700395,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-42.75,-21,2006-08-12,not a three
+26081201700406,Three Point Jump Shot,Diana Taurasi missed 25 ft Three Point Jumper.,FALSE,0,2006,-20.75,14,2006-08-12,not a three
+26081000400009,Three Point Jump Shot,Diana Taurasi made Three Point Jumper. Assisted by Penny Taylor.,TRUE,3,2006,-41.75,21,2006-08-10,three
+26081000400012,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-41.75,0,2006-08-10,not a three
+26081000400019,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-41.75,17,2006-08-10,not a three
+26081000400026,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-25.75,-15,2006-08-10,three
+26081000400039,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,7,2006-08-10,not a three
+26081000400048,RunningJumpShot,Diana Taurasi made Running Jumper.,TRUE,2,2006,-34.75,0,2006-08-10,not a three
+26081000400053,Free Throw 1 of 1,Diana Taurasi missed Free Throw 1 of 1.,FALSE,0,2006,-28,0,2006-08-10,not a three
+26081000400060,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-27.75,-18,2006-08-10,not a three
+26081000400119,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-08-10,not a three
+26081000400132,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-25.75,-2,2006-08-10,not a three
+26081000400152,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper.,TRUE,3,2006,-22.75,-15,2006-08-10,three
+26081000400174,RegularJumpShot,Diana Taurasi missed 12 ft Two Point Shot.,FALSE,0,2006,-33.75,9,2006-08-10,not a three
+26081000400184,JumpShot,Diana Taurasi made 9 ft Jumper.,TRUE,2,2006,-34.75,6,2006-08-10,not a three
+26081000400189,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-08-10,not a three
+26081000400191,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-08-10,not a three
+26081000400202,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-22.75,-11,2006-08-10,three
+26081000400206,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-20.75,11,2006-08-10,not a three
+26081000400216,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-28.75,-19,2006-08-10,not a three
+26081000400225,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-41.75,0,2006-08-10,not a three
+26081000400235,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,0,2006-08-10,not a three
+26081000400253,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Penny Taylor.,TRUE,3,2006,-22.75,-14,2006-08-10,three
+26081000400259,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-08-10,not a three
+26081000400261,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-08-10,not a three
+26081000400309,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-41.75,0,2006-08-10,not a three
+26081000400316,RegularJumpShot,Diana Taurasi missed 18 ft Two Point Shot.,FALSE,0,2006,-29.75,14,2006-08-10,not a three
+26081000400336,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-08-10,not a three
+26081000400362,RegularJumpShot,Diana Taurasi missed 17 ft Two Point Shot.,FALSE,0,2006,-27.75,-10,2006-08-10,not a three
+26081000400365,JumpShot,Diana Taurasi made 19 ft Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-25.75,-11,2006-08-10,not a three
+26081000400377,JumpShot,Diana Taurasi missed 18 ft Jumper.,FALSE,0,2006,-27.75,11,2006-08-10,not a three
+26081000400382,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-24.75,14,2006-08-10,not a three
+26081000400404,JumpShot,Diana Taurasi missed 15 ft Jumper.,FALSE,0,2006,-40.75,15,2006-08-10,not a three
+26081000400417,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-08-10,not a three
+26081000400418,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-08-10,not a three
+26081000400452,Three Point Jump Shot,Diana Taurasi missed 25 ft Three Point Jumper.,FALSE,0,2006,-18.75,-10,2006-08-10,not a three
+26081000400463,JumpShot,Diana Taurasi's 7 ft Jumper blocked by Sancho Lyttle.,FALSE,0,2006,-34.75,2,2006-08-10,not a three
+26081000400467,Three Point Jump Shot,Diana Taurasi made 26 ft Three Point Jumper.,TRUE,3,2006,-17.75,-11,2006-08-10,three
+26081000400470,Three Pointer,Diana Taurasi missed 23 ft Three Pointer.,FALSE,0,2006,-23.75,-15,2006-08-10,not a three
+26081000400485,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-22.75,11,2006-08-10,three
+26081000400502,Three Point Jump Shot,Diana Taurasi's 23 ft Three Point Jumper blocked by Sheryl Swoopes.,FALSE,0,2006,-23.75,-14,2006-08-10,not a three
+26081000400511,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Penny Taylor.,TRUE,3,2006,-26.75,-17,2006-08-10,three
+26080801100017,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-24.75,-16,2006-08-08,not a three
+26080801100022,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-08,not a three
+26080801100023,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-08,not a three
+26080801100038,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-25.75,15,2006-08-08,three
+26080801100055,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-22.75,10,2006-08-08,not a three
+26080801100060,RegularJumpShot,Diana Taurasi made 9 ft Two Point Shot.,TRUE,2,2006,-38.75,-9,2006-08-08,not a three
+26080801100073,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-26.75,17,2006-08-08,not a three
+26080801100105,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-08,not a three
+26080801100107,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,-0,2006-08-08,not a three
+26080801100109,LayupShot,Diana Taurasi made Layup. Assisted by Penny Taylor.,TRUE,2,2006,-41.75,-0,2006-08-08,not a three
+26080801100113,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-21.75,-14,2006-08-08,three
+26080801100136,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-24.75,-13,2006-08-08,not a three
+26080801100210,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-08,not a three
+26080801100211,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-08,not a three
+26080801100214,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-08,not a three
+26080801100216,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-08,not a three
+26080801100225,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-41.75,-0,2006-08-08,not a three
+26080801100328,RegularJumpShot,Diana Taurasi made Two Point Shot. Assisted by Penny Taylor.,TRUE,2,2006,-41.75,-0,2006-08-08,not a three
+26080501100013,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-26.75,-14,2006-08-05,not a three
+26080501100033,JumpShot,Diana Taurasi made 15 ft Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-38.75,-15,2006-08-05,not a three
+26080501100045,RegularJumpShot,Diana Taurasi missed 15 ft Two Point Shot.,FALSE,0,2006,-30.75,10,2006-08-05,not a three
+26080501100060,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-29.75,21,2006-08-05,three
+26080501100065,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-32.75,20,2006-08-05,not a three
+26080501100070,LayupShot,Diana Taurasi made Layup. Assisted by Cappie Pondexter.,TRUE,2,2006,-41.75,-0,2006-08-05,not a three
+26080501100076,LayupShot,Diana Taurasi made Layup. Assisted by Cappie Pondexter.,TRUE,2,2006,-41.75,-0,2006-08-05,not a three
+26080501100096,Three Point Jump Shot,Diana Taurasi made Three Point Jumper.,TRUE,3,2006,-19.75,-0,2006-08-05,three
+26080501100102,JumpShot,Diana Taurasi missed 9 ft Jumper.,FALSE,0,2006,-34.75,5,2006-08-05,not a three
+26080501100154,LayupShot,Diana Taurasi made Layup. Assisted by Kamila Vodichkova.,TRUE,2,2006,-41.75,-0,2006-08-05,not a three
+26080501100169,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Penny Taylor.,TRUE,3,2006,-34.75,22,2006-08-05,three
+26080501100181,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-28.75,-10,2006-08-05,not a three
+26080501100204,Three Point Jump Shot,Diana Taurasi missed 48 ft Three Point Jumper.,FALSE,0,2006,-0.75,24,2006-08-05,not a three
+26080501100225,LayupShot,Diana Taurasi made Layup. Assisted by Cappie Pondexter.,TRUE,2,2006,-41.75,-0,2006-08-05,not a three
+26080501100249,JumpShot,Diana Taurasi made 16 ft Jumper.,TRUE,2,2006,-25.75,-4,2006-08-05,not a three
+26080501100253,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-05,not a three
+26080501100254,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-05,not a three
+26080501100270,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-08-05,not a three
+26080501100272,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,-0,2006-08-05,not a three
+26080501100275,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,-0,2006-08-05,not a three
+26080501100277,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,-0,2006-08-05,not a three
+26080501100281,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-05,not a three
+26080501100284,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-05,not a three
+26080501100286,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-41.75,-0,2006-08-05,not a three
+26080501100290,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-05,not a three
+26080501100292,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-05,not a three
+26080501100347,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-08-05,not a three
+26080501100349,RegularJumpShot,Diana Taurasi made 8 ft Two Point Shot. Assisted by Penny Taylor.,TRUE,2,2006,-38.75,7,2006-08-05,not a three
+26080501100376,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,2,2006-08-05,not a three
+26080301100002,JumpShot,Diana Taurasi missed 11 ft Jumper.,FALSE,0,2006,-35.75,9,2006-08-03,not a three
+26080301100030,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper.,TRUE,3,2006,-22.75,-15,2006-08-03,three
+26080301100038,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-34.75,21,2006-08-03,not a three
+26080301100049,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-03,not a three
+26080301100050,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-03,not a three
+26080301100075,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,-0,2006-08-03,not a three
+26080301100077,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-03,not a three
+26080301100092,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Penny Taylor.,TRUE,3,2006,-29.75,19,2006-08-03,three
+26080301100095,RegularJumpShot,Diana Taurasi missed Two Point Shot.,FALSE,0,2006,-41.75,-0,2006-08-03,not a three
+26080301100097,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-28.75,20,2006-08-03,three
+26080301100128,JumpShot,Diana Taurasi missed 6 ft Jumper.,FALSE,0,2006,-39.75,6,2006-08-03,not a three
+26080301100148,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-26.75,-18,2006-08-03,not a three
+26080301100151,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-03,not a three
+26080301100152,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-08-03,not a three
+26080301100209,RegularJumpShot,Diana Taurasi made 14 ft Two Point Shot.,TRUE,2,2006,-30.75,9,2006-08-03,not a three
+26080301100233,Three Point Jump Shot,Diana Taurasi made 26 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-26.75,21,2006-08-03,three
+26080301100248,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-08-03,not a three
+26080301100257,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-08-03,not a three
+26080301100264,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-08-03,not a three
+26080301100271,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-08-03,not a three
+26080301100274,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,-0,2006-08-03,not a three
+26080301100301,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-28.75,18,2006-08-03,three
+26080301100333,JumpShot,Diana Taurasi made Jumper.,TRUE,2,2006,-25.75,-0,2006-08-03,not a three
+26080301100348,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-08-03,not a three
+26080101900025,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-22.75,13,2006-08-01,three
+26080101900037,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-24.75,12,2006-08-01,not a three
+26080101900054,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kamila Vodichkova.,TRUE,3,2006,-23.75,-12,2006-08-01,three
+26080101900056,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-27.75,-16,2006-08-01,not a three
+26080101900084,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-41.75,0,2006-08-01,not a three
+26080101900126,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-08-01,not a three
+26080101900128,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-08-01,not a three
+26080101900131,LayupShot,Diana Taurasi made Layup. Assisted by Cappie Pondexter.,TRUE,2,2006,-41.75,0,2006-08-01,not a three
+26080101900149,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-22.75,13,2006-08-01,not a three
+26080101900164,LayupShot,Diana Taurasi's Layup blocked by Candice Dupree.,FALSE,0,2006,-41.75,0,2006-08-01,not a three
+26080101900210,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-08-01,not a three
+26080101900211,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-08-01,not a three
+26080101900222,LayupShot,Diana Taurasi made Layup. Assisted by Penny Taylor.,TRUE,2,2006,-41.75,0,2006-08-01,not a three
+26080101900224,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-08-01,not a three
+26080101900230,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-08-01,not a three
+26080101900241,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-41.75,0,2006-08-01,not a three
+26080101900254,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-22.75,-13,2006-08-01,three
+26080101900276,LayupShot,Diana Taurasi made Layup. Assisted by Jen Derevjanik.,TRUE,2,2006,-41.75,0,2006-08-01,not a three
+26080101900286,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-32.75,-15,2006-08-01,not a three
+26080101900387,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-20.75,8,2006-08-01,three
+26080101900395,Three Point Jump Shot,Diana Taurasi missed 20 ft Three Point Jumper.,FALSE,0,2006,-32.75,-18,2006-08-01,not a three
+26080101900411,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,0,2006-08-01,not a three
+26073001100002,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-29.75,18,2006-07-30,not a three
+26073001100020,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-26.75,-9,2006-07-30,not a three
+26073001100082,RunningJumpShot,Diana Taurasi missed 10 ft Running Jumper.,FALSE,0,2006,-39.75,-10,2006-07-30,not a three
+26073001100088,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-07-30,not a three
+26073001100102,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-27.75,17,2006-07-30,three
+26073001100117,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-30,not a three
+26073001100119,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,-0,2006-07-30,not a three
+26073001100156,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-23.75,-12,2006-07-30,not a three
+26073001100168,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-41.75,-0,2006-07-30,not a three
+26073001100184,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-24.75,-14,2006-07-30,not a three
+26073001100188,JumpShot,Diana Taurasi missed 15 ft Jumper.,FALSE,0,2006,-40.75,15,2006-07-30,not a three
+26073001100200,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-18.75,6,2006-07-30,not a three
+26073001100203,RegularJumpShot,Diana Taurasi missed Two Point Shot.,FALSE,0,2006,-41.75,-0,2006-07-30,not a three
+26073001100216,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kristen Rasmussen.,TRUE,3,2006,-34.75,-21,2006-07-30,three
+26073001100232,JumpShot,Diana Taurasi missed 13 ft Jumper.,FALSE,0,2006,-31.75,8,2006-07-30,not a three
+26073001100239,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-29.75,19,2006-07-30,three
+26073001100246,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-07-30,not a three
+26073001100255,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-25.75,-17,2006-07-30,three
+26073001100257,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-24.75,-14,2006-07-30,not a three
+26073001100269,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,-0,2006-07-30,not a three
+26073001100273,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-30,not a three
+26073001100316,JumpShot,Diana Taurasi made 15 ft Jumper.,TRUE,2,2006,-30.75,10,2006-07-30,not a three
+26073001100330,JumpShot,Diana Taurasi missed 7 ft Jumper.,FALSE,0,2006,-36.75,-5,2006-07-30,not a three
+26073001100353,RegularJumpShot,Diana Taurasi made 14 ft Two Point Shot.,TRUE,2,2006,-27.75,-3,2006-07-30,not a three
+26073001100393,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-27.75,-18,2006-07-30,not a three
+26072801700011,RegularJumpShot,Diana Taurasi made 14 ft Two Point Shot.,TRUE,2,2006,-36.75,13,2006-07-28,not a three
+26072801700027,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-24.75,-13,2006-07-28,not a three
+26072801700039,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-3,2006-07-28,not a three
+26072801700074,RegularJumpShot,Diana Taurasi missed 12 ft Two Point Shot.,FALSE,0,2006,-43.75,12,2006-07-28,not a three
+26072801700084,LayupShot,Diana Taurasi made Layup.,TRUE,2,2006,-41.75,-3,2006-07-28,not a three
+26072801700087,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-07-28,not a three
+26072801700098,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-27.75,-10,2006-07-28,not a three
+26072801700109,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-27.75,18,2006-07-28,not a three
+26072801700113,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-40.75,3,2006-07-28,not a three
+26072801700169,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-18.75,-3,2006-07-28,not a three
+26072801700228,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,-1,2006-07-28,not a three
+26072801700234,Three Point Jump Shot,Diana Taurasi missed Three Point Jumper.,FALSE,0,2006,-20.75,0,2006-07-28,not a three
+26072801700248,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-28,not a three
+26072801700249,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-28,not a three
+26072801700264,RegularJumpShot,Diana Taurasi made 8 ft Two Point Shot.,TRUE,2,2006,-42.75,8,2006-07-28,not a three
+26072801700271,Three Point Jump Shot,Diana Taurasi made Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-41.75,-22,2006-07-28,three
+26072801700288,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-27.75,16,2006-07-28,three
+26072801700297,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-07-28,not a three
+26072801700299,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-28,not a three
+26072801700345,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-32.75,-21,2006-07-28,not a three
+26072801700360,LayupShot,Diana Taurasi made Layup. Assisted by Penny Taylor.,TRUE,2,2006,-42.75,1,2006-07-28,not a three
+26072801700363,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-07-28,not a three
+26072801700383,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-28.75,17,2006-07-28,not a three
+26072801700399,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-38.75,4,2006-07-28,not a three
+26072801700413,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-20.75,-12,2006-07-28,not a three
+26072801700431,JumpShot,Diana Taurasi made 7 ft Jumper. Assisted by Kelly Miller.,TRUE,2,2006,-34.75,-1,2006-07-28,not a three
+26072801700440,JumpShot,Diana Taurasi missed 8 ft Jumper.,FALSE,0,2006,-34.75,-3,2006-07-28,not a three
+26072700400008,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-26.75,15,2006-07-27,not a three
+26072700400014,JumpShot,Diana Taurasi made 15 ft Jumper.,TRUE,2,2006,-28.75,7,2006-07-27,not a three
+26072700400024,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-22.75,0,2006-07-27,not a three
+26072700400029,RegularJumpShot,Diana Taurasi made 13 ft Two Point Shot. Assisted by Kristen Rasmussen.,TRUE,2,2006,-36.75,-12,2006-07-27,not a three
+26072700400038,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-07-27,not a three
+26072700400040,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-07-27,not a three
+26072700400044,LayupShot,Diana Taurasi made Layup.,TRUE,2,2006,-41.75,0,2006-07-27,not a three
+26072700400046,Free Throw 1 of 1,Diana Taurasi missed Free Throw 1 of 1.,FALSE,0,2006,-28,0,2006-07-27,not a three
+26072700400048,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-07-27,not a three
+26072700400064,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,0,2006-07-27,not a three
+26072700400078,JumpShot,Diana Taurasi missed 13 ft Jumper.,FALSE,0,2006,-29.75,-5,2006-07-27,not a three
+26072700400092,RunningJumpShot,Diana Taurasi made 6 ft Running Jumper.,TRUE,2,2006,-35.75,-2,2006-07-27,not a three
+26072700400130,JumpShot,Diana Taurasi missed 18 ft Jumper.,FALSE,0,2006,-27.75,-12,2006-07-27,not a three
+26072700400145,Three Point Jump Shot,Diana Taurasi missed 20 ft Three Point Jumper.,FALSE,0,2006,-21.75,4,2006-07-27,not a three
+26072700400148,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-07-27,not a three
+26072700400152,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-07-27,not a three
+26072700400164,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-07-27,not a three
+26072700400166,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-37.75,-23,2006-07-27,three
+26072700400175,RunningJumpShot,Diana Taurasi made 7 ft Running Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-34.75,-1,2006-07-27,not a three
+26072700400182,JumpShot,Diana Taurasi missed 14 ft Jumper.,FALSE,0,2006,-39.75,-14,2006-07-27,not a three
+26072700400212,JumpShot,Diana Taurasi made 14 ft Jumper.,TRUE,2,2006,-40.75,-14,2006-07-27,not a three
+26072700400244,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-27,not a three
+26072700400245,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-27,not a three
+26072700400254,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Belinda Snell.,TRUE,3,2006,-20.75,3,2006-07-27,three
+26072700400257,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-27,not a three
+26072700400258,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-27,not a three
+26072700400288,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-31.75,20,2006-07-27,three
+26072700400292,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-21.75,-9,2006-07-27,three
+26072700400335,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-25.75,14,2006-07-27,not a three
+26072700400340,RegularJumpShot,Diana Taurasi missed Two Point Shot.,FALSE,0,2006,-41.75,14,2006-07-27,not a three
+26072700400353,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-41.75,12,2006-07-27,not a three
+26072700400379,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-20.75,-9,2006-07-27,not a three
+26072700400385,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-27,not a three
+26072700400386,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-27,not a three
+26072700400391,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-23.75,-12,2006-07-27,three
+26072700400404,LayupShot,Diana Taurasi's Layup blocked by Michelle Snow.,FALSE,0,2006,-41.75,0,2006-07-27,not a three
+26072700400407,LayupShot,Diana Taurasi made Layup. Assisted by Belinda Snell.,TRUE,2,2006,-41.75,0,2006-07-27,not a three
+26072700400429,Three Point Jump Shot,Diana Taurasi missed 25 ft Three Point Jumper.,FALSE,0,2006,-18.75,-9,2006-07-27,not a three
+26072700400447,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-27.75,7,2006-07-27,not a three
+26072501100005,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-27.75,17,2006-07-25,not a three
+26072501100024,JumpShot,Diana Taurasi missed 14 ft Jumper.,FALSE,0,2006,-33.75,-11,2006-07-25,not a three
+26072501100032,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-31.75,20,2006-07-25,not a three
+26072501100076,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-07-25,not a three
+26072501100082,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-34.75,22,2006-07-25,not a three
+26072501100098,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-32.75,-13,2006-07-25,not a three
+26072501100114,JumpShot,Diana Taurasi missed 9 ft Jumper.,FALSE,0,2006,-34.75,6,2006-07-25,not a three
+26072501100138,LayupShot,Diana Taurasi made Layup. Assisted by Kristen Rasmussen.,TRUE,2,2006,-41.75,-0,2006-07-25,not a three
+26072501100168,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-07-25,not a three
+26072501100209,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-07-25,not a three
+26072501100216,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-22.75,-13,2006-07-25,not a three
+26072501100224,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-27.75,-17,2006-07-25,three
+26072501100227,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-07-25,not a three
+26072501100230,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,-0,2006-07-25,not a three
+26072501100237,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,-5,2006-07-25,not a three
+26072501100249,JumpShot,Diana Taurasi missed 9 ft Jumper.,FALSE,0,2006,-32.75,-2,2006-07-25,not a three
+26072501100259,JumpShot,Diana Taurasi made 17 ft Jumper.,TRUE,2,2006,-28.75,-11,2006-07-25,not a three
+26072501100277,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-25,not a three
+26072501100278,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-25,not a three
+26072501100280,JumpShot,Diana Taurasi missed 14 ft Jumper.,FALSE,0,2006,-29.75,-7,2006-07-25,not a three
+26072501100285,LayupShot,Diana Taurasi made Layup. Assisted by Jen Derevjanik.,TRUE,2,2006,-41.75,-0,2006-07-25,not a three
+26072501100301,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-38.75,22,2006-07-25,three
+26072501100308,JumpShot,Diana Taurasi made 14 ft Jumper.,TRUE,2,2006,-37.75,-13,2006-07-25,not a three
+26072501100335,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-25.75,-16,2006-07-25,not a three
+26072501100343,JumpShot,Diana Taurasi made 6 ft Jumper.,TRUE,2,2006,-39.75,-6,2006-07-25,not a three
+26072501100352,JumpShot,Diana Taurasi missed 11 ft Jumper.,FALSE,0,2006,-32.75,6,2006-07-25,not a three
+26072501100364,JumpShot,Diana Taurasi's 9 ft Jumper blocked by Lauren Jackson.,FALSE,0,2006,-34.75,-5,2006-07-25,not a three
+26072501100392,JumpShot,Diana Taurasi missed 18 ft Jumper.,FALSE,0,2006,-23.75,-4,2006-07-25,not a three
+26072200100004,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-22.75,-13,2006-07-22,three
+26072200100021,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,1,2006-07-22,not a three
+26072200100037,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-27.75,16,2006-07-22,three
+26072200100042,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-26.75,-15,2006-07-22,not a three
+26072200100060,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-22,not a three
+26072200100061,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-22,not a three
+26072200100075,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-26.75,0,2006-07-22,not a three
+26072200100079,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-43.75,23,2006-07-22,not a three
+26072200100096,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-41.75,0,2006-07-22,not a three
+26072200100217,LayupShot,Diana Taurasi made Layup. Assisted by Kristen Rasmussen.,TRUE,2,2006,-41.75,0,2006-07-22,not a three
+26072200100235,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-07-22,not a three
+26072200100237,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-22,not a three
+26072200100243,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-07-22,not a three
+26072200100264,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,8,2006-07-22,not a three
+26072200100280,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-23.75,12,2006-07-22,not a three
+26072200100288,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-43.75,-17,2006-07-22,not a three
+26072200100298,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-22.75,-10,2006-07-22,not a three
+26072200100338,RegularJumpShot,Diana Taurasi made 11 ft Two Point Shot.,TRUE,2,2006,-38.75,-11,2006-07-22,not a three
+26072200100345,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,7,2006-07-22,not a three
+26072200100366,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-24.75,-12,2006-07-22,three
+26072200100406,JumpShot,Diana Taurasi missed 13 ft Jumper.,FALSE,0,2006,-34.75,11,2006-07-22,not a three
+26072200100409,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-22,not a three
+26072200100410,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-07-22,not a three
+26072200100416,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-07-22,not a three
+26072200100418,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-22,not a three
+26072200100432,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper.,TRUE,3,2006,-21.75,-12,2006-07-22,three
+26072200100437,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-41.75,0,2006-07-22,not a three
+26071901600016,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-28.75,0,2006-07-19,not a three
+26071901600043,JumpShot,Diana Taurasi missed 9 ft Jumper.,FALSE,0,2006,-33.75,3,2006-07-19,not a three
+26071901600059,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper.,TRUE,3,2006,-20.75,9,2006-07-19,three
+26071901600070,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-30.75,-18,2006-07-19,not a three
+26071901600075,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-43.75,17,2006-07-19,not a three
+26071901600101,JumpShot,Diana Taurasi missed 10 ft Jumper.,FALSE,0,2006,-35.75,-8,2006-07-19,not a three
+26071901600159,RegularJumpShot,Diana Taurasi made 18 ft Two Point Shot.,TRUE,2,2006,-36.75,-17,2006-07-19,not a three
+26071901600161,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-22.75,-12,2006-07-19,not a three
+26071901600169,LayupShot,Diana Taurasi made Layup. Assisted by Penny Taylor.,TRUE,2,2006,-41.75,2,2006-07-19,not a three
+26071901600175,RegularJumpShot,Diana Taurasi made 11 ft Two Point Shot.,TRUE,2,2006,-30.75,-3,2006-07-19,not a three
+26071901600197,JumpShot,Diana Taurasi missed 4 ft Jumper.,FALSE,0,2006,-40.75,4,2006-07-19,not a three
+26071901600227,RegularJumpShot,Diana Taurasi made 14 ft Two Point Shot. Assisted by Cappie Pondexter.,TRUE,2,2006,-27.75,2,2006-07-19,not a three
+26071901600231,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-24.75,13,2006-07-19,not a three
+26071901600236,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-40.75,1,2006-07-19,not a three
+26071901600249,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-07-19,not a three
+26071901600322,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-39.75,-1,2006-07-19,not a three
+26071901600335,RunningJumpShot,Diana Taurasi made 6 ft Running Jumper.,TRUE,2,2006,-35.75,1,2006-07-19,not a three
+26071901600341,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-28.75,18,2006-07-19,not a three
+26071901600351,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-42.75,1,2006-07-19,not a three
+26071901600354,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,0,2006-07-19,not a three
+26071901600385,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-26.75,-16,2006-07-19,three
+26071800500004,JumpShot,Diana Taurasi's 5 ft Jumper blocked by Anna DeForge.,FALSE,0,2006,-42.75,5,2006-07-18,not a three
+26071800500014,JumpShot,Diana Taurasi made 3 ft Jumper. Assisted by Kamila Vodichkova.,TRUE,2,2006,-40.75,3,2006-07-18,not a three
+26071800500031,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-37.75,-21,2006-07-18,not a three
+26071800500110,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-28.75,-11,2006-07-18,not a three
+26071800500128,JumpShot,Diana Taurasi made Jumper.,TRUE,2,2006,-41.75,17,2006-07-18,not a three
+26071800500153,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-28.75,-11,2006-07-18,not a three
+26071800500207,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-24.75,-13,2006-07-18,not a three
+26071800500303,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,-1,2006-07-18,not a three
+26071800500321,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-42.75,-21,2006-07-18,not a three
+26071800500329,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-25.75,-15,2006-07-18,not a three
+26071800500363,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-31.75,21,2006-07-18,three
+26071800500369,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-43.75,17,2006-07-18,not a three
+26071800500374,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,-8,2006-07-18,not a three
+26071800500388,Three Point Jump Shot,Diana Taurasi missed Three Point Jumper.,FALSE,0,2006,-41.75,-22,2006-07-18,not a three
+26071601100014,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-30.75,-18,2006-07-16,not a three
+26071601100029,JumpShot,Diana Taurasi made 20 ft Jumper.,TRUE,2,2006,-21.75,2,2006-07-16,not a three
+26071601100066,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-41.75,-0,2006-07-16,not a three
+26071601100071,RegularJumpShot,Diana Taurasi made 10 ft Two Point Shot.,TRUE,2,2006,-31.75,-3,2006-07-16,not a three
+26071601100076,JumpShot,Diana Taurasi missed 14 ft Jumper.,FALSE,0,2006,-33.75,11,2006-07-16,not a three
+26071601100083,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-31.75,-0,2006-07-16,not a three
+26071601100092,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-28.75,18,2006-07-16,not a three
+26071601100147,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper.,TRUE,3,2006,-30.75,-18,2006-07-16,three
+26071601100174,JumpShot,Diana Taurasi made 9 ft Jumper. Assisted by Penny Taylor.,TRUE,2,2006,-34.75,5,2006-07-16,not a three
+26071601100187,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100190,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100194,Three Point Jump Shot,Diana Taurasi made 33 ft Three Point Jumper.,TRUE,3,2006,-12.75,15,2006-07-16,three
+26071601100208,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-24.75,-14,2006-07-16,not a three
+26071601100223,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100224,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100247,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100248,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,-0,2006-07-16,not a three
+26071601100259,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100260,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,-0,2006-07-16,not a three
+26071601100288,RegularJumpShot,Diana Taurasi made 5 ft Two Point Shot.,TRUE,2,2006,-38.75,4,2006-07-16,not a three
+26071601100301,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100302,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100308,JumpShot,Diana Taurasi's 13 ft Jumper blocked by Shameka Christon.,FALSE,0,2006,-35.75,11,2006-07-16,not a three
+26071601100318,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-30.75,19,2006-07-16,not a three
+26071601100362,LayupShot,Diana Taurasi made Layup. Assisted by Kristen Rasmussen.,TRUE,2,2006,-41.75,-0,2006-07-16,not a three
+26071601100365,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-28.75,-9,2006-07-16,not a three
+26071601100388,JumpShot,Diana Taurasi missed 13 ft Jumper.,FALSE,0,2006,-35.75,11,2006-07-16,not a three
+26071601100393,Three Point Jump Shot,Diana Taurasi's 21 ft Three Point Jumper blocked by Shameka Christon.,FALSE,0,2006,-27.75,-16,2006-07-16,not a three
+26071601100399,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-16,not a three
+26071601100401,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,-0,2006-07-16,not a three
+26071601100403,JumpShot,Diana Taurasi missed 13 ft Jumper.,FALSE,0,2006,-35.75,-11,2006-07-16,not a three
+26071401100026,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,-0,2006-07-14,not a three
+26071401100029,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100032,JumpShot,Diana Taurasi missed 19 ft Jumper.,FALSE,0,2006,-29.75,15,2006-07-14,not a three
+26071401100083,LayupShot,Diana Taurasi made Layup. Assisted by Jen Derevjanik.,TRUE,2,2006,-41.75,-0,2006-07-14,not a three
+26071401100087,Free Throw 1 of 1,Diana Taurasi missed Free Throw 1 of 1.,FALSE,0,2006,-28,-0,2006-07-14,not a three
+26071401100089,Three Point Jump Shot,Diana Taurasi missed Three Point Jumper.,FALSE,0,2006,-20.75,-0,2006-07-14,not a three
+26071401100136,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-21.75,-7,2006-07-14,not a three
+26071401100149,Three Point Jump Shot,Diana Taurasi missed 30 ft Three Point Jumper.,FALSE,0,2006,-12.75,-7,2006-07-14,not a three
+26071401100168,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-33.75,-20,2006-07-14,not a three
+26071401100190,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100191,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100213,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-39.75,21,2006-07-14,three
+26071401100221,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-26.75,-16,2006-07-14,three
+26071401100230,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-31.75,19,2006-07-14,three
+26071401100239,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100240,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100242,JumpShot,Diana Taurasi made 17 ft Jumper.,TRUE,2,2006,-36.75,-16,2006-07-14,not a three
+26071401100250,JumpShot,Diana Taurasi made 16 ft Jumper.,TRUE,2,2006,-26.75,-5,2006-07-14,not a three
+26071401100256,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-29.75,18,2006-07-14,three
+26071401100262,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100265,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100288,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100290,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100295,JumpShot,Diana Taurasi missed 12 ft Jumper.,FALSE,0,2006,-33.75,9,2006-07-14,not a three
+26071401100302,JumpShot,Diana Taurasi missed 11 ft Jumper.,FALSE,0,2006,-30.75,1,2006-07-14,not a three
+26071401100309,RegularJumpShot,Diana Taurasi missed 12 ft Two Point Shot.,FALSE,0,2006,-33.75,-9,2006-07-14,not a three
+26071401100355,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100356,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-07-14,not a three
+26071401100358,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kamila Vodichkova.,TRUE,3,2006,-27.75,18,2006-07-14,three
+26071401100361,JumpShot,Diana Taurasi made 16 ft Jumper.,TRUE,2,2006,-37.75,15,2006-07-14,not a three
+26071401100369,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-27.75,17,2006-07-14,not a three
+26071401100378,JumpShot,Diana Taurasi missed 12 ft Jumper.,FALSE,0,2006,-37.75,11,2006-07-14,not a three
+26071401100404,RegularJumpShot,Diana Taurasi missed Two Point Shot.,FALSE,0,2006,-41.75,-0,2006-07-14,not a three
+26071209800078,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-31.75,20,2006-07-12,not a three
+26071209800092,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-22.75,-11,2006-07-12,three
+26071209800094,Three Point Jump Shot,Diana Taurasi made Three Point Jumper. Assisted by Sue Bird.,TRUE,3,2006,-41.75,22,2006-07-12,three
+26071209800096,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-23.75,16,2006-07-12,not a three
+26071209800150,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-26.75,16,2006-07-12,not a three
+26071209800239,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-23.75,0,2006-07-12,not a three
+26071209800383,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-29.75,17,2006-07-12,not a three
+26071209800388,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Dawn Staley.,TRUE,3,2006,-23.75,-16,2006-07-12,three
+26071209800390,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-23.75,-12,2006-07-12,not a three
+26071209800412,JumpShot,Diana Taurasi missed 10 ft Jumper.,FALSE,0,2006,-37.75,-9,2006-07-12,not a three
+26071209800434,DunkShot,Diana Taurasi missed Dunk.,FALSE,0,2006,-41.75,0,2006-07-12,not a three
+26070900900014,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-25.75,-17,2006-07-09,not a three
+26070900900037,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-28.75,17,2006-07-09,three
+26070900900052,JumpShot,Diana Taurasi missed 14 ft Jumper.,FALSE,0,2006,-32.75,11,2006-07-09,not a three
+26070900900061,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-07-09,not a three
+26070900900089,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Penny Taylor.,TRUE,3,2006,-20.75,-1,2006-07-09,three
+26070900900163,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Jennifer Lacy.,TRUE,3,2006,-19.75,-9,2006-07-09,three
+26070900900165,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Penny Taylor.,TRUE,3,2006,-20.75,-9,2006-07-09,three
+26070900900168,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-31.75,-21,2006-07-09,not a three
+26070900900182,JumpShot,Diana Taurasi made 15 ft Jumper.,TRUE,2,2006,-27.75,4,2006-07-09,not a three
+26070900900208,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-25.75,15,2006-07-09,not a three
+26070900900213,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-07-09,not a three
+26070900900215,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-07-09,not a three
+26070900900237,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-26.75,-17,2006-07-09,three
+26070900900245,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kristen Rasmussen.,TRUE,3,2006,-28.75,18,2006-07-09,three
+26070900900259,DrivingLayupShot,Diana Taurasi made Driving Layup. Assisted by Kamila Vodichkova.,TRUE,2,2006,-41.75,0,2006-07-09,not a three
+26070900900276,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-25.75,-7,2006-07-09,not a three
+26070900900281,RegularJumpShot,Diana Taurasi missed 7 ft Two Point Shot.,FALSE,0,2006,-35.75,-4,2006-07-09,not a three
+26070900900289,JumpShot,Diana Taurasi missed 7 ft Jumper.,FALSE,0,2006,-35.75,3,2006-07-09,not a three
+26070900900351,Three Point Jump Shot,Diana Taurasi missed Three Point Jumper.,FALSE,0,2006,-19.75,0,2006-07-09,not a three
+26070900900370,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-09,not a three
+26070900900371,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-07-09,not a three
+26070900900382,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-27.75,18,2006-07-09,not a three
+26070900900385,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-09,not a three
+26070900900388,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-09,not a three
+26070900900429,LayupShot,Diana Taurasi made Layup.,TRUE,2,2006,-41.75,0,2006-07-09,not a three
+26070900900432,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-07-09,not a three
+26070900900441,DrivingLayupShot,Diana Taurasi's Driving Layup blocked by Shameka Christon.,FALSE,0,2006,-41.75,0,2006-07-09,not a three
+26070900900483,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-22.75,12,2006-07-09,three
+26070801800005,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-25.75,-16,2006-07-08,not a three
+26070801800030,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Kamila Vodichkova.,TRUE,3,2006,-29.75,-17,2006-07-08,three
+26070801800045,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-26.75,-16,2006-07-08,not a three
+26070801800057,JumpShot,Diana Taurasi made 15 ft Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-26.75,1,2006-07-08,not a three
+26070801800080,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-39.75,-1,2006-07-08,not a three
+26070801800113,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-39.75,-3,2006-07-08,not a three
+26070801800120,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-07-08,not a three
+26070801800122,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-08,not a three
+26070801800173,RegularJumpShot,Diana Taurasi missed 6 ft Two Point Shot.,FALSE,0,2006,-36.75,-3,2006-07-08,not a three
+26070801800177,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-43.75,-22,2006-07-08,three
+26070801800191,JumpShot,Diana Taurasi made Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-41.75,-18,2006-07-08,not a three
+26070801800198,LayupShot,Diana Taurasi's Layup blocked by Taj McWilliams-Franklin.,FALSE,0,2006,-41.75,0,2006-07-08,not a three
+26070801800207,JumpShot,Diana Taurasi made 16 ft Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-29.75,11,2006-07-08,not a three
+26070801800219,Three Point Jump Shot,Diana Taurasi missed Three Point Jumper.,FALSE,0,2006,-19.75,0,2006-07-08,not a three
+26070801800229,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-43.75,1,2006-07-08,not a three
+26070801800243,JumpShot,Diana Taurasi missed 9 ft Jumper.,FALSE,0,2006,-36.75,-7,2006-07-08,not a three
+26070801800245,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Kamila Vodichkova.,TRUE,3,2006,-33.75,19,2006-07-08,three
+26070801800281,LayupShot,Diana Taurasi's Layup blocked by Asjha Jones.,FALSE,0,2006,-41.75,0,2006-07-08,not a three
+26070801800288,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-28.75,19,2006-07-08,not a three
+26070801800293,JumpShot,Diana Taurasi missed 5 ft Jumper.,FALSE,0,2006,-36.75,-2,2006-07-08,not a three
+26070801800335,Three Point Jump Shot,Diana Taurasi missed 20 ft Three Point Jumper.,FALSE,0,2006,-30.75,-17,2006-07-08,not a three
+26070801800379,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-08,not a three
+26070801800380,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-07-08,not a three
+26070801800401,LayupShot,Diana Taurasi made Layup. Assisted by Kelly Miller.,TRUE,2,2006,-40.75,0,2006-07-08,not a three
+26070801800403,JumpShot,Diana Taurasi's 6 ft Jumper blocked by Taj McWilliams-Franklin.,FALSE,0,2006,-38.75,5,2006-07-08,not a three
+26070801800412,LayupShot,Diana Taurasi's Layup blocked by Taj McWilliams-Franklin.,FALSE,0,2006,-39.75,3,2006-07-08,not a three
+26070801800424,LayupShot,Diana Taurasi made Layup. Assisted by Cappie Pondexter.,TRUE,2,2006,-41.75,0,2006-07-08,not a three
+26070801800438,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-36.75,23,2006-07-08,not a three
+26070600300009,JumpShot,Diana Taurasi made 14 ft Jumper. Assisted by Kristen Rasmussen.,TRUE,2,2006,-30.75,-8,2006-07-06,not a three
+26070600300018,RegularJumpShot,Diana Taurasi missed 11 ft Two Point Shot.,FALSE,0,2006,-31.75,-5,2006-07-06,not a three
+26070600300046,JumpShot,Diana Taurasi made 14 ft Jumper. Assisted by Kelly Miller.,TRUE,2,2006,-31.75,10,2006-07-06,not a three
+26070600300056,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-07-06,not a three
+26070600300069,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-24.75,15,2006-07-06,not a three
+26070600300093,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-07-06,not a three
+26070600300095,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-06,not a three
+26070600300177,Three Point Jump Shot,Diana Taurasi missed 25 ft Three Point Jumper.,FALSE,0,2006,-16.75,-2,2006-07-06,not a three
+26070600300184,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-22.75,14,2006-07-06,not a three
+26070600300235,Three Point Jump Shot,Diana Taurasi made 25 ft Three Point Jumper. Assisted by Kamila Vodichkova.,TRUE,3,2006,-21.75,-15,2006-07-06,three
+26070600300252,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-20.75,4,2006-07-06,not a three
+26070600300261,JumpShot,Diana Taurasi missed 15 ft Jumper.,FALSE,0,2006,-27.75,-6,2006-07-06,not a three
+26070600300277,JumpShot,Diana Taurasi missed 14 ft Jumper.,FALSE,0,2006,-27.75,2,2006-07-06,not a three
+26070600300334,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-07-06,not a three
+26070600300336,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-06,not a three
+26070600300400,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-07-06,not a three
+26070600300402,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-07-06,not a three
+26070600300412,Three Point Jump Shot,Diana Taurasi missed 26 ft Three Point Jumper.,FALSE,0,2006,-21.75,16,2006-07-06,not a three
+26070600300442,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,1,2006-07-06,not a three
+26070201100012,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-29.75,19,2006-07-02,three
+26070201100037,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kristen Rasmussen.,TRUE,3,2006,-26.75,-17,2006-07-02,three
+26070201100051,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-25.75,-17,2006-07-02,not a three
+26070201100065,JumpShot,Diana Taurasi missed 11 ft Jumper.,FALSE,0,2006,-33.75,-8,2006-07-02,not a three
+26070201100072,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Penny Taylor.,TRUE,3,2006,-37.75,-21,2006-07-02,three
+26070201100137,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-31.75,21,2006-07-02,not a three
+26070201100145,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper.,TRUE,3,2006,-20.75,-3,2006-07-02,three
+26070201100203,Three Point Jump Shot,Diana Taurasi missed 26 ft Three Point Jumper.,FALSE,0,2006,-15.75,-1,2006-07-02,not a three
+26070201100209,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,-1,2006-07-02,not a three
+26070201100228,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-25.75,16,2006-07-02,three
+26070201100235,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-33.75,21,2006-07-02,not a three
+26070201100259,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-26.75,-14,2006-07-02,three
+26070201100275,JumpShot,Diana Taurasi made 16 ft Jumper.,TRUE,2,2006,-25.75,3,2006-07-02,not a three
+26070201100307,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-07-02,not a three
+26070201100309,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-39.75,-22,2006-07-02,not a three
+26070201100326,JumpShot,Diana Taurasi made 18 ft Jumper.,TRUE,2,2006,-26.75,-10,2006-07-02,not a three
+26070201100333,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-28.75,19,2006-07-02,not a three
+26070201100350,JumpShot,Diana Taurasi missed 9 ft Jumper.,FALSE,0,2006,-43.75,-9,2006-07-02,not a three
+26070201100385,JumpShot,Diana Taurasi missed 15 ft Jumper.,FALSE,0,2006,-29.75,9,2006-07-02,not a three
+26070201100403,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-29.75,19,2006-07-02,not a three
+26070201100412,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-21.75,-11,2006-07-02,not a three
+26063000600016,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,5,2006-06-30,not a three
+26063000600074,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-43.75,16,2006-06-30,not a three
+26063000600078,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-20.75,-10,2006-06-30,not a three
+26063000600135,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-40.75,22,2006-06-30,three
+26063000600140,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,0,2006-06-30,not a three
+26063000600171,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-06-30,not a three
+26063000600177,DrivingLayupShot,Diana Taurasi missed Driving Layup.,FALSE,0,2006,-41.75,0,2006-06-30,not a three
+26063000600196,LayupShot,Diana Taurasi made Layup. Assisted by Crystal Smith.,TRUE,2,2006,-41.75,0,2006-06-30,not a three
+26063000600198,Free Throw 1 of 1,Diana Taurasi missed Free Throw 1 of 1.,FALSE,0,2006,-28,0,2006-06-30,not a three
+26063000600237,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-18.75,-2,2006-06-30,not a three
+26063000600245,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-21.75,-13,2006-06-30,not a three
+26063000600263,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kristen Rasmussen.,TRUE,3,2006,-18.75,1,2006-06-30,three
+26063000600385,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-30,not a three
+26063000600386,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-06-30,not a three
+26063000600400,JumpShot,Diana Taurasi missed 18 ft Jumper.,FALSE,0,2006,-27.75,11,2006-06-30,not a three
+26063000600433,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-30,not a three
+26063000600436,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-06-30,not a three
+26063000600446,JumpShot,Diana Taurasi made 5 ft Jumper.,TRUE,2,2006,-36.75,-2,2006-06-30,not a three
+26063000600454,JumpShot,Diana Taurasi missed 9 ft Jumper.,FALSE,0,2006,-33.75,-3,2006-06-30,not a three
+26063000600485,Three Point Jump Shot,Diana Taurasi made 25 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-16.75,1,2006-06-30,three
+26062801100006,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-33.75,-0,2006-06-28,not a three
+26062801100013,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-28.75,19,2006-06-28,not a three
+26062801100015,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-06-28,not a three
+26062801100041,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-28.75,9,2006-06-28,not a three
+26062801100086,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,-0,2006-06-28,not a three
+26062801100088,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-28,not a three
+26062801100090,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-40.75,16,2006-06-28,not a three
+26062801100092,JumpShot,Diana Taurasi made 14 ft Jumper.,TRUE,2,2006,-27.75,1,2006-06-28,not a three
+26062801100100,RegularJumpShot,Diana Taurasi made 11 ft Two Point Shot.,TRUE,2,2006,-30.75,-3,2006-06-28,not a three
+26062801100104,Three Point Jump Shot,Diana Taurasi missed 25 ft Three Point Jumper.,FALSE,0,2006,-16.75,2,2006-06-28,not a three
+26062801100192,JumpShot,Diana Taurasi made 12 ft Jumper.,TRUE,2,2006,-30.75,5,2006-06-28,not a three
+26062801100197,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-27.75,-17,2006-06-28,not a three
+26062801100241,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-27.75,-9,2006-06-28,not a three
+26062801100279,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-06-28,not a three
+26062801100280,LayupShot,Diana Taurasi made Layup.,TRUE,2,2006,-41.75,-0,2006-06-28,not a three
+26062801100295,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,-2,2006-06-28,not a three
+26062801100331,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-28,not a three
+26062801100332,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-28,not a three
+26062801100360,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-28,not a three
+26062801100362,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-28,not a three
+26062801100382,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-29.75,19,2006-06-28,not a three
+26062801100390,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-29.75,11,2006-06-28,not a three
+26062501100003,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-42.75,23,2006-06-25,not a three
+26062501100052,JumpShot,Diana Taurasi made 17 ft Jumper.,TRUE,2,2006,-27.75,-9,2006-06-25,not a three
+26062501100058,JumpShot,Diana Taurasi made 15 ft Jumper.,TRUE,2,2006,-31.75,11,2006-06-25,not a three
+26062501100101,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-30.75,20,2006-06-25,three
+26062501100111,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-28.75,19,2006-06-25,not a three
+26062501100122,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-41.75,-0,2006-06-25,not a three
+26062501100195,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-06-25,not a three
+26062501100197,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-21.75,-9,2006-06-25,three
+26062501100216,JumpShot,Diana Taurasi missed 18 ft Jumper.,FALSE,0,2006,-28.75,-12,2006-06-25,not a three
+26062501100221,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-27.75,-18,2006-06-25,not a three
+26062501100253,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-35.75,21,2006-06-25,not a three
+26062501100319,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-21.75,-7,2006-06-25,not a three
+26062501100371,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-29.75,20,2006-06-25,not a three
+26062301100027,Three Point Jump Shot,Diana Taurasi missed 25 ft Three Point Jumper.,FALSE,0,2006,-22.75,17,2006-06-23,not a three
+26062301100071,RegularJumpShot,Diana Taurasi made 11 ft Two Point Shot.,TRUE,2,2006,-32.75,-6,2006-06-23,not a three
+26062301100098,RegularJumpShot,Diana Taurasi made 9 ft Two Point Shot.,TRUE,2,2006,-39.75,-9,2006-06-23,not a three
+26062301100106,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-19.75,4,2006-06-23,not a three
+26062301100151,Three Point Jump Shot,Diana Taurasi made 25 ft Three Point Jumper. Assisted by Jennifer Lacy.,TRUE,3,2006,-17.75,8,2006-06-23,three
+26062301100161,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-23.75,14,2006-06-23,not a three
+26062301100173,JumpShot,Diana Taurasi missed 18 ft Jumper.,FALSE,0,2006,-26.75,10,2006-06-23,not a three
+26062301100189,JumpShot,Diana Taurasi missed 9 ft Jumper.,FALSE,0,2006,-44.75,-9,2006-06-23,not a three
+26062301100214,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-40.75,-21,2006-06-23,not a three
+26062301100219,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-23,not a three
+26062301100220,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-23,not a three
+26062301100226,JumpShot,Diana Taurasi made 18 ft Jumper.,TRUE,2,2006,-25.75,9,2006-06-23,not a three
+26062301100270,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Crystal Smith.,TRUE,3,2006,-29.75,-17,2006-06-23,three
+26062301100272,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-31.75,12,2006-06-23,not a three
+26062301100283,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-23,not a three
+26062301100284,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-23,not a three
+26062301100294,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper.,TRUE,3,2006,-19.75,-5,2006-06-23,three
+26062301100301,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-25.75,-14,2006-06-23,not a three
+26062301100333,LayupShot,Diana Taurasi made Layup. Assisted by Kamila Vodichkova.,TRUE,2,2006,-41.75,-0,2006-06-23,not a three
+26062301100366,Three Point Jump Shot,Diana Taurasi missed 27 ft Three Point Jumper.,FALSE,0,2006,-14.75,1,2006-06-23,not a three
+26062301100387,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-21.75,13,2006-06-23,not a three
+26062301100428,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-06-23,not a three
+26062101400007,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-28.75,20,2006-06-21,not a three
+26062101400034,JumpShot,Diana Taurasi's 5 ft Jumper blocked by Lauren Jackson.,FALSE,0,2006,-39.75,5,2006-06-21,not a three
+26062101400048,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Kristen Rasmussen.,TRUE,3,2006,-21.75,-12,2006-06-21,three
+26062101400061,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-26.75,-18,2006-06-21,not a three
+26062101400083,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,0,2006-06-21,not a three
+26062101400113,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-36.75,-22,2006-06-21,not a three
+26062101400132,RunningJumpShot,Diana Taurasi missed 8 ft Running Jumper.,FALSE,0,2006,-40.75,8,2006-06-21,not a three
+26062101400142,RunningJumpShot,Diana Taurasi made 3 ft Running Jumper.,TRUE,2,2006,-38.75,-1,2006-06-21,not a three
+26062101400160,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-28.75,20,2006-06-21,three
+26062101400167,JumpShot,Diana Taurasi missed 13 ft Jumper.,FALSE,0,2006,-42.75,-13,2006-06-21,not a three
+26062101400217,Three Point Jump Shot,Diana Taurasi missed 41 ft Three Point Jumper.,FALSE,0,2006,-1.75,-11,2006-06-21,not a three
+26062101400231,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-25.75,-2,2006-06-21,not a three
+26062101400240,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-20.75,-7,2006-06-21,three
+26062101400251,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-21.75,-10,2006-06-21,three
+26062101400262,JumpShot,Diana Taurasi missed 6 ft Jumper.,FALSE,0,2006,-37.75,-5,2006-06-21,not a three
+26062101400268,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Kristen Rasmussen.,TRUE,3,2006,-25.75,-18,2006-06-21,three
+26062101400276,JumpShot,Diana Taurasi made Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-41.75,18,2006-06-21,not a three
+26062101400288,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-21,not a three
+26062101400289,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-06-21,not a three
+26062101400302,Three Point Jump Shot,Diana Taurasi made 24 ft Three Point Jumper. Assisted by Crystal Smith.,TRUE,3,2006,-18.75,7,2006-06-21,three
+26062101400338,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-21,not a three
+26062101400339,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-06-21,not a three
+26062101400349,RunningJumpShot,Diana Taurasi missed 6 ft Running Jumper.,FALSE,0,2006,-42.75,6,2006-06-21,not a three
+26062101400418,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-21,not a three
+26062101400419,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-06-21,not a three
+26062101400458,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-06-21,not a three
+26062101400460,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-06-21,not a three
+26061800800007,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-21.75,14,2006-06-18,not a three
+26061800800034,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-25.75,-14,2006-06-18,not a three
+26061800800040,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-18,not a three
+26061800800041,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-06-18,not a three
+26061800800063,RegularJumpShot,Diana Taurasi made 13 ft Two Point Shot.,TRUE,2,2006,-35.75,-12,2006-06-18,not a three
+26061800800073,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,0,2006-06-18,not a three
+26061800800091,Three Point Jump Shot,Diana Taurasi made 25 ft Three Point Jumper. Assisted by Kelly Miller.,TRUE,3,2006,-20.75,-14,2006-06-18,three
+26061800800094,JumpShot,Diana Taurasi missed 11 ft Jumper.,FALSE,0,2006,-33.75,-8,2006-06-18,not a three
+26061800800146,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-18,not a three
+26061800800147,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-06-18,not a three
+26061800800162,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-18,not a three
+26061800800163,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-06-18,not a three
+26061800800165,Three Point Jump Shot,Diana Taurasi missed 26 ft Three Point Jumper.,FALSE,0,2006,-15.75,-4,2006-06-18,not a three
+26061800800171,Three Point Jump Shot,Diana Taurasi missed Three Point Jumper.,FALSE,0,2006,-16.75,0,2006-06-18,not a three
+26061800800200,Three Point Jump Shot,Diana Taurasi made 26 ft Three Point Jumper.,TRUE,3,2006,-17.75,-10,2006-06-18,three
+26061800800211,RegularJumpShot,Diana Taurasi made 15 ft Two Point Shot. Assisted by Crystal Smith.,TRUE,2,2006,-37.75,-14,2006-06-18,not a three
+26061800800222,JumpShot,Diana Taurasi missed 4 ft Jumper.,FALSE,0,2006,-37.75,-2,2006-06-18,not a three
+26061800800240,JumpShot,Diana Taurasi missed 7 ft Jumper.,FALSE,0,2006,-35.75,-4,2006-06-18,not a three
+26061800800248,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-30.75,-11,2006-06-18,not a three
+26061800800294,JumpShot,Diana Taurasi missed 13 ft Jumper.,FALSE,0,2006,-35.75,-12,2006-06-18,not a three
+26061800800310,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-23.75,14,2006-06-18,not a three
+26061800800367,DrivingLayupShot,Diana Taurasi made Driving Layup. Assisted by Jen Derevjanik.,TRUE,2,2006,-41.75,0,2006-06-18,not a three
+26061800800374,RunningJumpShot,Diana Taurasi missed 5 ft Running Jumper.,FALSE,0,2006,-36.75,-2,2006-06-18,not a three
+26061800800390,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-20.75,9,2006-06-18,not a three
+26061601100013,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-25.75,-7,2006-06-16,not a three
+26061601100026,JumpShot,Diana Taurasi made 16 ft Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-25.75,-1,2006-06-16,not a three
+26061601100114,Three Point Jump Shot,Diana Taurasi made 26 ft Three Point Jumper. Assisted by Jen Derevjanik.,TRUE,3,2006,-25.75,21,2006-06-16,three
+26061601100122,JumpShot,Diana Taurasi made 14 ft Jumper.,TRUE,2,2006,-38.75,14,2006-06-16,not a three
+26061601100124,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-27.75,-9,2006-06-16,not a three
+26061601100131,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-06-16,not a three
+26061601100166,JumpShot,Diana Taurasi made 10 ft Jumper.,TRUE,2,2006,-32.75,5,2006-06-16,not a three
+26061601100205,RegularJumpShot,Diana Taurasi missed 14 ft Two Point Shot.,FALSE,0,2006,-37.75,-13,2006-06-16,not a three
+26061601100247,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-24.75,-13,2006-06-16,three
+26061601100263,JumpShot,Diana Taurasi made 18 ft Jumper.,TRUE,2,2006,-27.75,12,2006-06-16,not a three
+26061601100272,Three Point Jump Shot,Diana Taurasi made 25 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-18.75,9,2006-06-16,three
+26061601100274,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100285,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-39.75,17,2006-06-16,not a three
+26061601100345,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Crystal Smith.,TRUE,3,2006,-32.75,-21,2006-06-16,three
+26061601100382,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100383,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100396,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,-0,2006-06-16,not a three
+26061601100399,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100415,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper.,TRUE,3,2006,-31.75,21,2006-06-16,three
+26061601100417,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-23.75,13,2006-06-16,not a three
+26061601100436,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100437,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100465,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100466,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100474,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061601100475,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-16,not a three
+26061300600017,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-21.75,-9,2006-06-13,three
+26061300600027,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-18.75,-1,2006-06-13,not a three
+26061300600036,JumpShot,Diana Taurasi made 16 ft Jumper.,TRUE,2,2006,-25.75,-2,2006-06-13,not a three
+26061300600039,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-18.75,-1,2006-06-13,not a three
+26061300600048,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-19.75,-2,2006-06-13,three
+26061300600063,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-20.75,-12,2006-06-13,not a three
+26061300600090,JumpShot,Diana Taurasi made Jumper. Assisted by Crystal Smith.,TRUE,2,2006,-27.75,0,2006-06-13,not a three
+26061300600094,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-19.75,6,2006-06-13,three
+26061300600127,RegularJumpShot,Diana Taurasi made 14 ft Two Point Shot. Assisted by Belinda Snell.,TRUE,2,2006,-27.75,-3,2006-06-13,not a three
+26061300600130,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-30.75,13,2006-06-13,not a three
+26061300600158,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-06-13,not a three
+26061300600161,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,0,2006-06-13,not a three
+26061300600179,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-26.75,-4,2006-06-13,not a three
+26061300600198,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-06-13,not a three
+26061300600239,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-22.75,-12,2006-06-13,not a three
+26061300600247,Three Point Jump Shot,Diana Taurasi's 24 ft Three Point Jumper blocked by Tamara Moore.,FALSE,0,2006,-22.75,-14,2006-06-13,not a three
+26061300600262,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-31.75,-13,2006-06-13,not a three
+26061300600343,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper.,TRUE,3,2006,-40.75,-23,2006-06-13,three
+26061300600347,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper.,TRUE,3,2006,-19.75,5,2006-06-13,three
+26061300600351,JumpShot,Diana Taurasi missed 12 ft Jumper.,FALSE,0,2006,-33.75,-9,2006-06-13,not a three
+26061300600370,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Crystal Smith.,TRUE,3,2006,-19.75,8,2006-06-13,three
+26061300600385,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-19.75,-4,2006-06-13,three
+26060901100002,JumpShot,Diana Taurasi made 16 ft Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-39.75,16,2006-06-09,not a three
+26060901100006,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-27.75,-18,2006-06-09,not a three
+26060901100018,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-06-09,not a three
+26060901100036,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-25.75,-15,2006-06-09,not a three
+26060901100048,JumpShot,Diana Taurasi made 11 ft Jumper.,TRUE,2,2006,-35.75,9,2006-06-09,not a three
+26060901100078,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-09,not a three
+26060901100082,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-09,not a three
+26060901100085,JumpShot,Diana Taurasi missed 14 ft Jumper.,FALSE,0,2006,-30.75,9,2006-06-09,not a three
+26060901100150,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-24.75,15,2006-06-09,not a three
+26060901100175,LayupShot,Diana Taurasi's Layup blocked by Kara Braxton.,FALSE,0,2006,-41.75,-0,2006-06-09,not a three
+26060901100183,JumpShot,Diana Taurasi missed 18 ft Jumper.,FALSE,0,2006,-23.75,1,2006-06-09,not a three
+26060901100254,JumpShot,Diana Taurasi made 14 ft Jumper.,TRUE,2,2006,-36.75,13,2006-06-09,not a three
+26060901100257,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-34.75,20,2006-06-09,not a three
+26060901100276,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-34.75,15,2006-06-09,not a three
+26060901100281,RegularJumpShot,Diana Taurasi missed 14 ft Two Point Shot.,FALSE,0,2006,-27.75,1,2006-06-09,not a three
+26060901100321,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-06-09,not a three
+26060901100330,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Jennifer Lacy.,TRUE,3,2006,-25.75,-16,2006-06-09,three
+26060901100335,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper.,TRUE,3,2006,-32.75,19,2006-06-09,three
+26060901100341,Three Point Jump Shot,Diana Taurasi made Three Point Jumper.,TRUE,3,2006,-17.75,-0,2006-06-09,three
+26060901100350,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-23.75,16,2006-06-09,not a three
+26060901100403,JumpShot,Diana Taurasi made 14 ft Jumper.,TRUE,2,2006,-34.75,-12,2006-06-09,not a three
+26060901100421,RunningJumpShot,Diana Taurasi missed 9 ft Running Jumper.,FALSE,0,2006,-34.75,5,2006-06-09,not a three
+26060901100429,RegularJumpShot,Diana Taurasi made 8 ft Two Point Shot.,TRUE,2,2006,-38.75,-7,2006-06-09,not a three
+26060901100432,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,-0,2006-06-09,not a three
+26060901100434,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-09,not a three
+26060601100026,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,7,2006-06-06,not a three
+26060601100037,RegularJumpShot,Diana Taurasi made Two Point Shot.,TRUE,2,2006,-41.75,-0,2006-06-06,not a three
+26060601100041,Three Point Jump Shot,Diana Taurasi missed 21 ft Three Point Jumper.,FALSE,0,2006,-34.75,-20,2006-06-06,not a three
+26060601100056,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,-0,2006-06-06,not a three
+26060601100058,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-06,not a three
+26060601100138,LayupShot,Diana Taurasi made Layup. Assisted by Kamila Vodichkova.,TRUE,2,2006,-41.75,-0,2006-06-06,not a three
+26060601100146,JumpShot,Diana Taurasi missed 7 ft Jumper.,FALSE,0,2006,-35.75,3,2006-06-06,not a three
+26060601100148,LayupShot,Diana Taurasi made Layup.,TRUE,2,2006,-41.75,-0,2006-06-06,not a three
+26060601100150,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,-0,2006-06-06,not a three
+26060601100153,JumpShot,Diana Taurasi made 20 ft Jumper.,TRUE,2,2006,-23.75,-9,2006-06-06,not a three
+26060601100167,JumpShot,Diana Taurasi missed 11 ft Jumper.,FALSE,0,2006,-34.75,9,2006-06-06,not a three
+26060601100173,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-06,not a three
+26060601100175,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-06,not a three
+26060601100198,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-36.75,22,2006-06-06,three
+26060601100225,LayupShot,Diana Taurasi made Layup. Assisted by Kamila Vodichkova.,TRUE,2,2006,-41.75,-0,2006-06-06,not a three
+26060601100273,JumpShot,Diana Taurasi made 15 ft Jumper.,TRUE,2,2006,-30.75,-10,2006-06-06,not a three
+26060601100307,JumpShot,Diana Taurasi made 14 ft Jumper.,TRUE,2,2006,-30.75,8,2006-06-06,not a three
+26060601100309,JumpShot,Diana Taurasi made 17 ft Jumper. Assisted by Crystal Smith.,TRUE,2,2006,-36.75,16,2006-06-06,not a three
+26060601100313,Free Throw 1 of 1,Diana Taurasi missed Free Throw 1 of 1.,FALSE,0,2006,-28,-0,2006-06-06,not a three
+26060601100318,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-06,not a three
+26060601100319,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-06,not a three
+26060601100369,Three Point Jump Shot,Diana Taurasi missed Three Point Jumper.,FALSE,0,2006,-19.75,-0,2006-06-06,not a three
+26060601100403,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-06-06,not a three
+26060601100407,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-06-06,not a three
+26060601100413,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-17.75,2,2006-06-06,not a three
+26060201400003,JumpShot,Diana Taurasi missed 11 ft Jumper.,FALSE,0,2006,-32.75,-7,2006-06-02,not a three
+26060201400012,JumpShot,Diana Taurasi missed 4 ft Jumper.,FALSE,0,2006,-38.75,-3,2006-06-02,not a three
+26060201400034,JumpShot,Diana Taurasi missed 10 ft Jumper.,FALSE,0,2006,-44.75,-10,2006-06-02,not a three
+26060201400084,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-25.75,1,2006-06-02,not a three
+26060201400088,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-24.75,-14,2006-06-02,not a three
+26060201400115,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-06-02,not a three
+26060201400117,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-18.75,-3,2006-06-02,not a three
+26060201400225,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,0,2006-06-02,not a three
+26060201400230,JumpShot,Diana Taurasi made 13 ft Jumper. Assisted by Cappie Pondexter.,TRUE,2,2006,-44.75,13,2006-06-02,not a three
+26060201400250,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-06-02,not a three
+26060201400253,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-06-02,not a three
+26060201400279,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Jennifer Lacy.,TRUE,3,2006,-24.75,-15,2006-06-02,three
+26060201400296,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-19.75,6,2006-06-02,not a three
+26060201400365,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-02,not a three
+26060201400368,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,0,2006-06-02,not a three
+26060201400423,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,0,2006-06-02,not a three
+26060201400428,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-06-02,not a three
+26060201400449,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-26.75,17,2006-06-02,three
+26060201400459,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-19.75,6,2006-06-02,not a three
+26060201400472,Free Throw 1 of 2,Diana Taurasi missed Free Throw 1 of 2.,FALSE,0,2006,-28,0,2006-06-02,not a three
+26060201400474,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,0,2006-06-02,not a three
+26053101100010,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,7,2006-05-31,not a three
+26053101100023,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-41.75,19,2006-05-31,not a three
+26053101100067,JumpShot,Diana Taurasi made 16 ft Jumper.,TRUE,2,2006,-25.75,1,2006-05-31,not a three
+26053101100079,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-32.75,-20,2006-05-31,not a three
+26053101100104,RegularJumpShot,Diana Taurasi made 9 ft Two Point Shot.,TRUE,2,2006,-32.75,3,2006-05-31,not a three
+26053101100160,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-05-31,not a three
+26053101100176,JumpShot,Diana Taurasi made 9 ft Jumper.,TRUE,2,2006,-38.75,9,2006-05-31,not a three
+26053101100179,Free Throw 1 of 1,Diana Taurasi made Free Throw 1 of 1.,TRUE,1,2006,-28,-0,2006-05-31,not a three
+26053101100207,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-29.75,11,2006-05-31,not a three
+26053101100214,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-05-31,not a three
+26053101100215,Free Throw 2 of 2,Diana Taurasi missed Free Throw 2 of 2.,FALSE,0,2006,-28,-0,2006-05-31,not a three
+26053101100217,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper.,TRUE,3,2006,-28.75,19,2006-05-31,three
+26053101100241,JumpShot,Diana Taurasi made 15 ft Jumper.,TRUE,2,2006,-26.75,-2,2006-05-31,not a three
+26053101100244,LayupShot,Diana Taurasi made Layup.,TRUE,2,2006,-41.75,-0,2006-05-31,not a three
+26053101100257,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-25.75,3,2006-05-31,not a three
+26053101100267,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-05-31,not a three
+26053101100280,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-05-31,not a three
+26053101100288,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-05-31,not a three
+26053101100290,Three Point Jump Shot,Diana Taurasi missed 23 ft Three Point Jumper.,FALSE,0,2006,-29.75,20,2006-05-31,not a three
+26053101100292,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper.,TRUE,3,2006,-22.75,-11,2006-05-31,three
+26053101100329,JumpShot,Diana Taurasi made 17 ft Jumper.,TRUE,2,2006,-25.75,7,2006-05-31,not a three
+26053101100341,JumpShot,Diana Taurasi missed 12 ft Jumper.,FALSE,0,2006,-30.75,-4,2006-05-31,not a three
+26053101100372,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-26.75,-19,2006-05-31,not a three
+26053101100387,LayupShot,Diana Taurasi missed Layup.,FALSE,0,2006,-41.75,-0,2006-05-31,not a three
+26053101100393,LayupShot,Diana Taurasi made Layup. Assisted by Kamila Vodichkova.,TRUE,2,2006,-41.75,-0,2006-05-31,not a three
+26052501100005,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-30.75,19,2006-05-25,not a three
+26052501100026,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-05-25,not a three
+26052501100027,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-05-25,not a three
+26052501100047,Three Point Jump Shot,Diana Taurasi made 23 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-18.75,3,2006-05-25,three
+26052501100050,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-25.75,7,2006-05-25,not a three
+26052501100089,RegularJumpShot,Diana Taurasi missed Two Point Shot.,FALSE,0,2006,-41.75,-0,2006-05-25,not a three
+26052501100093,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-25.75,15,2006-05-25,not a three
+26052501100137,JumpShot,Diana Taurasi made 16 ft Jumper.,TRUE,2,2006,-35.75,-15,2006-05-25,not a three
+26052501100149,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-32.75,-20,2006-05-25,not a three
+26052501100162,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-05-25,not a three
+26052501100172,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Tamicha Jackson.,TRUE,3,2006,-29.75,18,2006-05-25,three
+26052501100184,JumpShot,Diana Taurasi made 16 ft Jumper.,TRUE,2,2006,-31.75,-12,2006-05-25,not a three
+26052501100217,JumpShot,Diana Taurasi missed 10 ft Jumper.,FALSE,0,2006,-36.75,9,2006-05-25,not a three
+26052501100222,Three Pointer,Diana Taurasi made 29 ft Three Pointer.,TRUE,3,2006,-19.75,19,2006-05-25,three
+26052501100234,Three Point Jump Shot,Diana Taurasi missed 25 ft Three Point Jumper.,FALSE,0,2006,-21.75,-15,2006-05-25,not a three
+26052501100242,Free Throw 1 of 2,Diana Taurasi made Free Throw 1 of 2.,TRUE,1,2006,-28,-0,2006-05-25,not a three
+26052501100243,Free Throw 2 of 2,Diana Taurasi made Free Throw 2 of 2.,TRUE,1,2006,-28,-0,2006-05-25,not a three
+26052501100272,JumpShot,Diana Taurasi missed 19 ft Jumper.,FALSE,0,2006,-26.75,11,2006-05-25,not a three
+26052501100277,RegularJumpShot,Diana Taurasi missed Two Point Shot.,FALSE,0,2006,-41.75,-0,2006-05-25,not a three
+26052501100295,RegularJumpShot,Diana Taurasi made 14 ft Two Point Shot.,TRUE,2,2006,-38.75,-14,2006-05-25,not a three
+26052501100311,RegularJumpShot,Diana Taurasi missed 13 ft Two Point Shot.,FALSE,0,2006,-28.75,2,2006-05-25,not a three
+26052501100351,DrivingLayupShot,Diana Taurasi made Driving Layup.,TRUE,2,2006,-41.75,-0,2006-05-25,not a three
+26052501100360,JumpShot,Diana Taurasi made 19 ft Jumper.,TRUE,2,2006,-28.75,-14,2006-05-25,not a three
+26052501100384,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Tamicha Jackson.,TRUE,3,2006,-28.75,-17,2006-05-25,three
+26052001300016,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-28.75,-17,2006-05-20,three
+26052001300018,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper.,TRUE,3,2006,-28.75,17,2006-05-20,three
+26052001300041,Three Point Jump Shot,Diana Taurasi made 21 ft Three Point Jumper. Assisted by Bridget Pettis.,TRUE,3,2006,-21.75,-7,2006-05-20,three
+26052001300126,Three Point Jump Shot,Diana Taurasi missed 24 ft Three Point Jumper.,FALSE,0,2006,-20.75,-12,2006-05-20,not a three
+26052001300132,JumpShot,Diana Taurasi missed 17 ft Jumper.,FALSE,0,2006,-25.75,-6,2006-05-20,not a three
+26052001300145,JumpShot,Diana Taurasi missed 16 ft Jumper.,FALSE,0,2006,-25.75,-1,2006-05-20,not a three
+26052001300210,JumpShot,Diana Taurasi made 6 ft Jumper.,TRUE,2,2006,-36.75,4,2006-05-20,not a three
+26052001300221,JumpShot,Diana Taurasi missed Jumper.,FALSE,0,2006,-33.75,0,2006-05-20,not a three
+26052001300245,Three Point Jump Shot,Diana Taurasi made 22 ft Three Point Jumper. Assisted by Cappie Pondexter.,TRUE,3,2006,-28.75,-18,2006-05-20,three
+26052001300247,Three Point Jump Shot,Diana Taurasi missed 22 ft Three Point Jumper.,FALSE,0,2006,-20.75,-7,2006-05-20,not a three
+26052001300364,JumpShot,Diana Taurasi missed 14 ft Jumper.,FALSE,0,2006,-28.75,-4,2006-05-20,not a three
